@@ -1,0 +1,40 @@
+@font-face
+{
+    font-family: 'Fira Sans Regular';
+    src: url(/assets/font/KumbhSans-Regular.ttf) format("truetype");
+}
+
+@font-face
+{
+    font-family: 'Fira Sans Bold';
+    src: url(/assets/font/KumbhSans-Bold.ttf) format("truetype");
+}
+
+@font-face
+{
+    font-family: 'Fira Sans Light';
+    src: url(/assets/font/KumbhSans-Light.ttf) format("truetype");
+}
+
+*
+{
+    font-family: 'Fira Sans Regular';
+}
+
+html, body
+{
+    font-family: 'Fira Sans Regular';
+    background-color: #242424;
+    color: #fff;
+    margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 
+{
+    font-family: 'Fira Sans Bold';
+}
